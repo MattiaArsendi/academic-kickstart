@@ -9,6 +9,7 @@ title = "Projects"
 subtitle = ""
 
 [content]
+adaadsa
   # Page type to display. E.g. project.
   page_type = "project"
   
