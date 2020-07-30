@@ -30,6 +30,10 @@ education:
   - course: BSc in Statistics for Technology and Science
     institution: University of Padua
     year: 2020
+    - course: Exchange Year, 2019/2020
+    institution: University of Groningen
+    
+    
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
