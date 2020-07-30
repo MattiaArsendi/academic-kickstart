@@ -65,4 +65,8 @@ I am currently preparing my future M.Sc. studies.
 
 I attained my Bachelor’s Degree in Statistics after studying at University of Padua. My academic career did not begin directly studying the data, but I dawned with the study of Physical Education and Sport Science. I discovered Statistics by chance, since it was a topic of one course. This course completely altered my viewpoint as I was compelled by its power, by the advantages that it could give me and its versatility. Thus, I decided to change city, University and degree program and I begun studying Statistics at the University of Padua.
 
+The courses which have had the greatest impact on me were Data Bases, Statistical methods for Big Data, Computational Statistics and Introduction to Intelligent Systems. These programs introduced me to concepts as the programming language SQL, Bootstrapping and Machine Learning algorithms. I have valued being able to implement algorithms by myself and knowing how to work with real Big Data from different scientific contexts. Having the ability to develop scalable data architecture allowing to observe patterns that are impossible to see by the naked eyes, is a powerful tool, that gives you the opportunity to better understand the world around us.
+
+
+
 
