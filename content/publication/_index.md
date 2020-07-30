@@ -11,5 +11,5 @@ view: 4
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: "AAAAAAA"
-  image: ""
+  image: "chungi.jpg"
 ---
