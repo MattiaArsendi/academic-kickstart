@@ -87,14 +87,6 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ## Additionally, for organizations, these details may be used to enrich search engine results.
 ############################
 
-# Enter contact details (optional). To hide a field, clear it to "".
-social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:arsendimattia@gmail.com
-  
-email = "arsendimattia@gmail.com"
-
 
 
 ############################
